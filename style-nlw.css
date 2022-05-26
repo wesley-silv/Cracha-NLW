@@ -1,6 +1,4 @@
-/* Folha de estilo */
-@import url(_reset.css);
-@import url(_variaveis.css);
+
 * {
   margin: 0;
 }
