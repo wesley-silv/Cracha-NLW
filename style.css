@@ -21,7 +21,7 @@ main {
   background-position: center;
   background: cover;
   width: 100vw;
-  min-height: 812px;
+  min-height: 380px;
   height: 100vh;
 }
 .container {
